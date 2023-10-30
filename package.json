@@ -1,0 +1,11 @@
+{
+  "name": "type-man",
+  "version": "1.0.0",
+  "description": "Just Typescript Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mwna",
+  "license": "ISC"
+}
